@@ -1,0 +1,45 @@
+.register {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: bisque;
+    align-items: center;
+    justify-content: center;
+}
+
+.rWrapper {
+    width: 40%;
+    padding: 20px;
+    background-color: white;
+}
+
+.rTitle {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.rForm {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rInput {
+    flex: 1;
+    min-width: 40%;
+    margin: 20px 10px 0 0;
+    padding: 10px;
+}
+
+.agreement {
+    font-size: 12px;
+    margin: 20px 0;
+}
+
+.rButton {
+    width: 40%;
+    bottom: none;
+    padding: 15px 20px;
+    background-color:  teal;
+    color: white;
+    cursor: pointer;
+}

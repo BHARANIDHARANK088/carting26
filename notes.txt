@@ -1,0 +1,74 @@
+// 1 
+npm install react-router-dom in clients
+
+// 14
+npm install axios
+
+// 15
+create a folder called api inside src in clients
+
+// 16
+"proxy": "http://localhost:5000" in package.json
+
+// 17
+create a file called productRequest.js inside api folder
+
+// 21
+npm install cors in server api
+
+// 41
+npm install @reduxjs/toolkit react-redux in clients
+
+// 42
+create a folder called redux inside src folder
+
+// 43
+create a file called cartRedux.js inside redux folder
+
+// 47
+create a file called store.js inside redux folder
+
+// 61
+npm install react-stripe-checkout
+
+// 62 
+create a env file inside clients folder
+
+// 65 
+create a file called requestMethods.js inside src folder
+
+// 69
+create a file called userRedux.js inside redux folder
+
+// 74
+create a file called apiCalls.js inside redux folder
+
+// 87
+download admin folder from github
+
+// 88
+npm install all the packages in admin folder
+
+// 89
+create a folder called login inside pages folder in admin
+
+// 90
+create Login.jsx and login.css files inside login folder 
+
+// 91
+npm install axios @reduxjs/toolkit react-redux in admin
+
+// 93
+create a folder called redux inside src folder
+
+// 94
+create a file called userRedux.js, store.js, productRedux.js, apiCalls.js inside redux folder
+
+// 95
+create a file called requestMethods inside src in admin
+
+// 96
+"proxy": "http://localhost:5000" in package.json in admin
+
+// 100
+npm install redux-persist in admin

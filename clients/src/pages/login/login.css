@@ -1,0 +1,53 @@
+.login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: bisque;
+    align-items: center;
+    justify-content: center;
+}
+
+.lWrapper {
+    width: 25%;
+    padding: 20px;
+    background-color: white;
+}
+
+.lTitle {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.lForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.lInput {
+    flex: 1;
+    min-width: 40%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.lButton {
+    width: 40%;
+    bottom: none;
+    padding: 15px 20px;
+    background-color:  teal;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+    &:disabled {
+        color: green;
+        cursor: not-allowed;
+    }
+}
+
+.lLink {
+    margin: 5px 0px;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}

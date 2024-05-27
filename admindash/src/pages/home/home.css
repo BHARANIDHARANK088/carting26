@@ -1,0 +1,10 @@
+/* 34 */
+.home {
+    flex: 4;
+}
+
+/* 55 */
+.homeWidgets {
+    display: flex;
+    margin: 20px;
+}

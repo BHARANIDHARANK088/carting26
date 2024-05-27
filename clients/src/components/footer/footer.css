@@ -1,0 +1,63 @@
+.footer {
+    display: flex;
+}
+
+.fleft {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.desc {
+    margin: 20px 0;
+}
+
+.socialCon {
+    display: flex;
+}
+
+.socialIcon {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+
+.fcenter {
+    flex: 1;
+    padding: 20px;
+}
+
+.title {
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.listItem {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.fright {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactItem {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}

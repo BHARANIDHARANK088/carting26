@@ -1,0 +1,119 @@
+// 1
+create a folder called adminDash
+
+// 2
+npx create-react-app . in terminal
+
+// 3
+npm install react-icons recharts
+
+// 4
+npm install @mui/material @emotion/react @emotion/styled
+
+// 5
+delete everthing except index.html in public folder
+
+// 6
+delete everything except App.css, App.jsx and index.js in src folder
+
+// 7
+delete unnecessary lines from index.js
+
+// 8
+delete unnecessary lines from index.html
+
+// 9
+delete unnecessary lines from App.js
+
+// 10
+create a folder called pages inside src folder
+
+// 11
+create a folder called components inside src folder
+
+// 12
+create a folder called topBar inside components folder
+
+// 13
+create topBar.css and TopBar.jsx inside topBar folder
+
+// 20
+create a folder called sidebar inside components folder
+
+// 21
+create sidebar.css and Sidebar.jsx inside sidebar folder
+
+// 29
+create a folder called home inside pages folder
+
+// 30
+create home.css and Home.jsx inside home folder
+
+// 35
+create a folder called featuredInfo inside components folder
+
+// 36
+create featuredInfo.css and FeaturedInfo.jsx inside featuredInfo folder
+
+// 42
+create a folder called chart inside components folder
+
+// 43
+create chart.css and Chart.jsx inside chart folder
+
+// 45
+create a file called dummyData.js inside src featuredInfo
+
+// 56
+create a folder called widgetSm inside components folder
+
+// 57
+create widgetSm.css and WidgetSm.jsx inside widgetSm folder 
+
+// 58
+create a folder called widgetLg inside components folder
+
+// 59
+create widgetLg.css and WidgetLg.jsx inside widgetSm folder 
+
+// 71
+create a folder called userList inside pages folder
+
+// 72
+create userList.css and UserList.jsx inside userList folder
+
+// 73
+npm install react-router-dom
+
+// 78
+npm install @mui/x-data-grid
+
+// 83
+create a folder called user inside pages folder
+
+// 84
+create a file called User.jsx and user.css inside user folder
+
+// 91
+create a folder called newUser inside pages folder
+
+// 92
+create a file called NewUser.jsx and newUser.css inside user folder
+
+// 100
+create a folder called productList inside pages folder
+
+// 101
+create productList.css and ProductList.jsx inside productList folder
+
+// 109
+create a folder called product inside pages folder
+
+// 110
+create product.css and Product.jsx inside product folder
+
+// 116
+create a folder called newProduct inside pages folder
+
+// 117
+create newProduct.css and NewProduct.jsx inside product folder
